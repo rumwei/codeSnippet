@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a670c763-1187-4f2f-9a3c-a99d55d55584" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-    </list>
+    <list default="true" id="a670c763-1187-4f2f-9a3c-a99d55d55584" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,20 @@
       <recent name="$PROJECT_DIR$/src/main/java/flink/config/global-job-paramater" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KeyedStreamJob">
+  <component name="RunManager" selected="Application.BroadcastKeyedStreamJob">
+    <configuration name="BroadcastKeyedStreamJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flink.dataStreamApi.combine.BroadcastKeyedStreamJob" />
+      <module name="codeSnippet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flink.dataStreamApi.combine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GlobalJobParameterJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="flink.config.globalJobParameter.GlobalJobParameterJob" />
       <module name="codeSnippet" />
@@ -90,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BroadcastKeyedStreamJob" />
         <item itemvalue="Application.KeyedStreamJob" />
         <item itemvalue="Application.GlobalJobParameterJob" />
       </list>
@@ -104,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669034387003</updated>
       <workItem from="1669034388905" duration="1564000" />
-      <workItem from="1669036260123" duration="10800000" />
+      <workItem from="1669036260123" duration="12267000" />
     </task>
     <servers />
   </component>
