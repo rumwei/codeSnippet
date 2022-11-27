@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a670c763-1187-4f2f-9a3c-a99d55d55584" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/flink/dataStreamApi/windowedStream/TumblingEventTimeWindowStreamJob.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/flink/dataStreamApi/windowedStream/ToWindowEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flink/dataStreamApi/windowedStream/ToWindowEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/flink/dataStreamApi/windowedStream/WindowedStreamJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/flink/dataStreamApi/windowedStream/WindowedStreamJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flink/dataStreamApi/windowedStream/WindowedStreamJob.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669034387003</updated>
       <workItem from="1669034388905" duration="1564000" />
-      <workItem from="1669036260123" duration="21958000" />
+      <workItem from="1669036260123" duration="22300000" />
     </task>
     <servers />
   </component>
