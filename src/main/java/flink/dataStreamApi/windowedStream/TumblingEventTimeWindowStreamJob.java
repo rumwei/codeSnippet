@@ -140,6 +140,7 @@ public class TumblingEventTimeWindowStreamJob {
 
     public static void main(String[] args) throws Exception {
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
+        env.getConfig().setAutoWatermarkInterval(200);
 
         DataStreamSource<ToWindowEvent> source = env.addSource(new RichSourceFunction<ToWindowEvent>() {
             private boolean run = true;
